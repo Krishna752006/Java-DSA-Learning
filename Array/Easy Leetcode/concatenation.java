@@ -1,5 +1,3 @@
-package Array;
-
 import java.util.Arrays; // Don't forget to import Arrays
 
 public class concatenation {

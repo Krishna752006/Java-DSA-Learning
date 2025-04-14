@@ -1,5 +1,3 @@
-package Array;
-
 public class MinandMax {
     public static void main(String args[])
     {

@@ -1,5 +1,3 @@
-package Array;
-
 public class reverseArray {
     public static void main(String[] args) {
         int arr[] = {434,5,3,32,45,453,44,53,543,3,54,35};

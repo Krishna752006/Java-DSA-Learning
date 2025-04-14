@@ -1,5 +1,3 @@
-package Array;
-
     public class containduplicates {
         public static void main(String[] args) {
             int arr[] = {12,3,3,4,4,2,3,2,4,4};
